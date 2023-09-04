@@ -10,7 +10,7 @@
 
 <a href="https://github.com/FranciscoPGuimaraes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FranciscoPGuimaraes&theme=dark&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPGuimaraes&layout=compact&langs_count=5&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPGuimaraes&layout=compact&langs_count=5&theme=dark&show_icons=true" />
 </a>
 
 <h3> :rocket: &nbsp;Tecnologias</h3>
