@@ -3,15 +3,15 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
-- 💼 &nbsp; Trabalhando como **Estagiario WEBMASTER** no INATEL.
+- 💼 &nbsp; Pesquisador em IA **CSI-Lab** no INATEL.
 - 🌱 &nbsp; Buscando **novos conhecimentos**.
 
 <br/>
 
-<!--a href="https://github.com/FranciscoPGuimaraes">
+<-a href="https://github.com/FranciscoPGuimaraes">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FranciscoPGuimaraes&theme=dark&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPGuimaraes&layout=compact&langs_count=5&theme=dark&show_icons=true" />
-</a-->
+</a>
 
 <h3> :rocket: &nbsp;Tecnologias</h3>
 
