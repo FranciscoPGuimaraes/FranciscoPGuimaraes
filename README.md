@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
-- 💼 &nbsp; Estágiario em desenvolvimento RPA na Embraer.
+- 💼 &nbsp; Estágiario em desenvolvimento na Embraer.
 - ✈️ &nbsp; Monitor de banco de dados I e II no Inatel.
 - 🌱 &nbsp; Buscando **novos conhecimentos**.
 
