@@ -46,3 +46,5 @@
 
 [![Linkedin: franciscopereiraguimaraes](https://img.shields.io/badge/-Francisco_Guimarães-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Francisco_Guimarães-75889a195/)](https://www.linkedin.com/in/franciscopereiraguimaraes/)
 [![Gmail Badge](https://img.shields.io/badge/-Francisco_Guimarães-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielss2406@gmail.com)](mailto:franciscop.guimaraes04@gmail.com)
+
+**Abaixo, nos repositórios Fixados, pode encontrar os meus Projectos e Estudos Pessoais:**
