@@ -35,6 +35,8 @@
 ## Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-00B2A0?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
 <br/>
