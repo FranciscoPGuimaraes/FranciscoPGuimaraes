@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
-- ✈️ &nbsp; Estágiario em ciência de dados na Embraer.
+- ✈️ &nbsp; Engenheiro de Software Treinee LEVTY.
 - 🌱 &nbsp; Buscando **novos conhecimentos**.
 
 <br/>
