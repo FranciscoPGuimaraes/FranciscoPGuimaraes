@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
 - ✈️ &nbsp; Engenheiro de Software LEVTY.
 - 🌱 &nbsp; Entusiasta na **Área de dados**.
-- 🧑‍💼 &nbsp; Meu Portifólio: https://portifolio-black-rho.vercel.app/
+- 🧑‍💼 &nbsp; Confira meu **Portfólio Completo** aqui: [Meu Portfólio](https://portifolio-black-rho.vercel.app/)
 
 <br/>
 
