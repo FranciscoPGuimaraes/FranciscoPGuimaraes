@@ -3,8 +3,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
-- ✈️ &nbsp; Engenheiro de Software Treinee LEVTY.
-- 🌱 &nbsp; Buscando **novos conhecimentos**.
+- ✈️ &nbsp; Engenheiro de Software LEVTY.
+- 🌱 &nbsp; Entusiasta na **Área de dados**.
+- 🧑‍💼 &nbsp; Meu Portifólio: https://portifolio-black-rho.vercel.app/
 
 <br/>
 
