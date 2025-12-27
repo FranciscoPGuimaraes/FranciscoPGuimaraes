@@ -2,9 +2,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
+- 🎓 &nbsp; **Engenheiro de Software** pelo INATEL.
 - ✈️ &nbsp; Engenheiro de Software LEVTY.
-- 🌱 &nbsp; Entusiasta na **Área de dados**.
+- 🌱 &nbsp; Tech Lead **GoodPlay**.
 - 🧑‍💼 &nbsp; Confira meu **Portfólio Completo** aqui: [Meu Portfólio](https://portifolio-black-rho.vercel.app/)
 
 <br/>
